@@ -30,6 +30,6 @@ A simple and fun browser-based quiz game where you can test your knowledge and t
 -------
 
 ## How to run
-[Click here to view the repository]()
+[Click here to view the repository](https://github.com/Amnaakhtar1213/quiz-game.git)
 ```bash
-git clone 
+git clone https://github.com/Amnaakhtar1213/quiz-game.git
